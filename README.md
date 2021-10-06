@@ -1,2 +1,2 @@
 # AI_and_Learning
-Contents related to the fields Machine Learning, Deep learning and Artificial Intelligence.
+Contents related to the fields of Machine Learning, Deep learning and Artificial Intelligence.
